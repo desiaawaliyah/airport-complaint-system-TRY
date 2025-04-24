@@ -1,0 +1,12 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+# Tema warna pink aesthetic
+primaryColor = "#FF85A2"  # Pink cerah - warna utama
+backgroundColor = "#FFF0F5"  # Pink sangat terang - background
+secondaryBackgroundColor = "#FFD1DC"  # Pink muda - panel sekunder
+textColor = "#5E5E5E"  # Abu-abu tua - teks utama
+font = "sans serif"  # Font standard
